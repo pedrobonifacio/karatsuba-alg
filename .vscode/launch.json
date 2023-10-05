@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "C/C++: Depurar com Clang",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}/.build/${fileBasenameNoExtension}",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb",
+      "preLaunchTask": "C/C++: Compilar com Clang"
+    }
+  ],
+  "version": "2.0.0"
+}

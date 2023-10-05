@@ -1,0 +1,3 @@
+Para rodar os tests rode o binário com o argumento test em seguida, exemplo:
+
+`./.build/main test`
