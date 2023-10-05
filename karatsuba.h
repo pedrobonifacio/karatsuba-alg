@@ -4,7 +4,7 @@
 // O produto deste dois unsigned long long int
 
 // Algoritmo de Karatsuba
-
+// github: https://github.com/pedrobonifacio/karatsuba-alg
 #include <stdio.h>
 #include <math.h>
 
